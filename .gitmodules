@@ -1,6 +1,6 @@
 [submodule "hitobito_sbv"]
 	path = hitobito_sbv
-	url = git@github.com:renuo/hitobito_sbv.git
+url=https://github.com/renuo/hitobito_sbv.git
 	branch = master
 [submodule "hitobito"]
 	path = hitobito
